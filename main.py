@@ -1,4 +1,1 @@
-print("Hello, World")
-print("test")
-print("test_worker")
-#comment
+# Scrapingの勉強始めるぞい!!
